@@ -2,9 +2,9 @@
 
 ## Unit Assignment: Globetrotter
 
-Submitted by: **NAME**
+Submitted by: **Jessica Obi**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **16** hours spent in total
 
 Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
@@ -12,11 +12,11 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 #### CORE FEATURES
 
-- [ ] **Home Page**
-  - [ ] A heading that mentions the destination.
-  - [ ] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
-  - [ ] An evocative image that represents the location.
-  - [ ] Content organized using Flexbox for a fluid layout.
+- [x] **Home Page**
+  - [x] A heading that mentions the destination.
+  - [x] An introductory paragraph that welcomes visitors and dsescribes the purpose of the website. 
+  - [x] An evocative image that represents the location.
+  - [x] Content organized using Flexbox for a fluid layout.
 
 - [ ] **Top Attractions Page**
   - [ ] A separate page featuring a minimum of three attractions, each including a:
