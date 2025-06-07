@@ -45,11 +45,13 @@ body, html {
 
 }
 
+
+
 #rwandaTitle {
     color: white;
-    -webkit-text-stroke: 2px black;
-    font-family: 'Roboto', 'Courier New', monospace;
-    font-size: 50px;
+    font-family: "Limelight", sans-serif;
+    text-shadow:2px 2px 4px rgb(0, 0, 0);
+    font-size: 60px;
     text-align: center;
     padding: 20px;
 }
@@ -92,7 +94,16 @@ body, html {
         margin: 4px 0;
         text-align: center;
     }
-}
+    .navLink{
+        border-bottom: black solid 1px;
+    }
+    #videoContainer{
+        display: flex;
+        width: 80%;
+        height: auto;
+    }
+    }
+
 
 
 
@@ -110,6 +121,7 @@ a {
     padding: 20px;
     margin: 20px;
     border-radius: 20px;
+    max-width: 800px;
 }
 
 .galleryPic{
@@ -150,5 +162,10 @@ a {
         opacity: 1;
         transform: translateY(0);
     }
+}
+
+#quickFacts{
+    background-color: rgba(255, 255, 255, 0.75);
+
 }
 

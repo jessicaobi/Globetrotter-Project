@@ -3,6 +3,9 @@
 <head>
     <title>Globe Trotter Project</title>
     <link rel="stylesheet" href = "styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Limelight&display=swap" rel="stylesheet">
   
 </head>
 <body id = "homePageContent">
@@ -13,9 +16,9 @@
     </section>
 
     <nav id ="navBar">
-        <a href = "index.html">Home</a>
-        <a href = "topAttractions.html">Top Attractions</a>
-        <a href = "accommodationsGuide.html">Accomodations Guide</a>
+        <a class = "navLink" href = "index.html">Home</a>
+        <a class = "navLink" href = "topAttractions.html">Top Attractions</a>
+        <a class = "navLink" href = "accommodationsGuide.html">Accomodations Guide</a>
         <a href = "photoGallery.html">Photo Gallery</a>
     </nav>
 
@@ -24,20 +27,21 @@
         
     <p>Welcome to Rwanda, coined the land of 1000 hills. Although the hills are noticeable within its major cities, its an entirely different ball game when entering the rural communities, where the geography is absolutely breathtaking. Kigali is the capital and most populated city of Rwanda with over 1,000,000 inhabitants. It is also know for its large conservation efforts for the mountain gorillas. See more on how to visit them in the top attractions page. </p>
 </div>
-<div>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/dVqm40wcnL4?si=p5dO5ob4BCBdgxWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div id = "videoContainer" class = "topAttractions galleryPicContainer" style = "animation-delay: 0.1s">
+    <h3>Video Overview: Rwanda Explained in 10 Minutes</h3>
+    <iframe id = "videoContainer" width="560" height="315" src="https://www.youtube.com/embed/dVqm40wcnL4?si=p5dO5ob4BCBdgxWy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-    <div class = "topAttractions galleryPicContainer" style = "animation-delay: 0.2s">
-        <p>Quick Facts</p>
-        <li>Name: Republic of Rwanda</li>
-        <li>Population: 13.63 million (2024)</li>
-        <li>Area: 26,338km2, roughly half the size of Louisiana</li>
-        <li>Capital: Kigali</li>
-        <li>Religions: Majority of Christians (Catholic and Protestant), Muslims</li>
-        <li>Languages: Kinyarwanda, English, French, Swahili</li>
-        <li>GDP growth: 11.07 billion USD(2021)</li>
-        <li>Main exports: Coffee, tea, pyrethrum, tantalum ores and concentrates</li>
+    <div class="topAttractions galleryPicContainer" id="quickFacts" style="animation-delay: 0.2s">
+        <h3>Quick Facts</h3>
+        <li><strong>Name:</strong> Republic of Rwanda</li>
+        <li><strong>Population:</strong> 13.63 million (2024)</li>
+        <li><strong>Area:</strong> 26,338km2, roughly half the size of Louisiana</li>
+        <li><strong>Capital:</strong> Kigali</li>
+        <li><strong>Religions:</strong> Majority of Christians (Catholic and Protestant), Muslims</li>
+        <li><strong>Languages:</strong> Kinyarwanda, English, French, Swahili</li>
+        <li><strong>GDP growth:</strong> 11.07 billion USD (2021)</li>
+        <li><strong>Main exports:</strong> Coffee, tea, pyrethrum, tantalum ores and concentrates</li>
     </div>
     </div>
 </body>
