@@ -18,49 +18,50 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] An evocative image that represents the location.
   - [x] Content organized using Flexbox for a fluid layout.
 
-- [ ] **Top Attractions Page**
-  - [ ] A separate page featuring a minimum of three attractions, each including a:
-    - [ ] Name
-    - [ ] Photo
-    - [ ] Brief description
-  - [ ] Each attraction is styled the same
+- [x] **Top Attractions Page**
+  - [x] A separate page featuring a minimum of three attractions, each including a:
+    - [x] Name
+    - [x] Photo
+    - [x] Brief description
+  - [x] Each attraction is styled the same
     - E.g. same font, image size, title size, etc. 
-  - [ ] Content arranged with Flexbox for consistency and responsiveness.
+  - [x] Content arranged with Flexbox for consistency and responsiveness.
 
-- [ ] **Guide Page (Choose One)**
-  - [ ] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
-  - [ ] At least three entries thematic to your choice that provide a:
-    - [ ] Title
-    - [ ] Address
-    - [ ] Description
-    - [ ] Link with more information (e.g. link to a restaurant page)
-  - [ ] Each entry should be:
-    - [ ] Catered to a specific type of traveler (families, backpackers, etc.)
-    - [ ] Styled the same
+- [x] **Guide Page (Choose One)**
+  - [x] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
+  My accomodations page was targeted towards tourists coming into the country for the first time. Although it doesn't follow this outline exactly, it does still dollow the typical description of accomodating travelers. Devarsh Thacker, my advisor and one of my instructors, mentioned that it would still ssatisfy the guide requirements so I went ahead and checked off the below items. Thank you for your understanding!
+  - [x] At least three entries thematic to your choice that provide a:
+    - [x] Title
+    - [x] Address
+    - [x] Description
+    - [x] Link with more information (e.g. link to a restaurant page)
+  - [x] Each entry should be:
+    - [x] Catered to a specific type of traveler (families, backpackers, etc.)
+    - [x] Styled the same
       - E.g. same font, title size, etc.
-  - [ ] Content arranged with Flexbox for consistency and responsiveness. 
+  - [x] Content arranged with Flexbox for consistency and responsiveness. 
 
-- [ ] **Photo Gallery**
-  - [ ] Separate page with at least five images related to the site's topic.
-  - [ ] Each image should include a caption describing the image.
-  - [ ] Presented in a responsive design using Flexbox.
+- [x] **Photo Gallery**
+  - [x] Separate page with at least five images related to the site's topic.
+  - [x] Each image should include a caption describing the image.
+  - [x] Presented in a responsive design using Flexbox.
 
-- [ ] **Navigation Bar**
-  - [ ] Navigation bar with working links to each of the following pages:
-    - [ ] Home Page
-    - [ ] Top Attractions
-    - [ ] Photo Gallery
-    - [ ] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
-  - [ ] Navigation bar can be accessed from each page of the website.
-  - [ ] Styled with Flexbox that adapts to different screen sizes.  
+- [x] **Navigation Bar**
+  - [x] Navigation bar with working links to each of the following pages:
+    - [x] Home Page
+    - [x] Top Attractions
+    - [x] Photo Gallery
+    - [x] Guide Page (Food Guide, Accomodations Guide, _or_ Upcoming Local Events Guide)
+  - [x] Navigation bar can be accessed from each page of the website.
+  - [x] Styled with Flexbox that adapts to different screen sizes.  
 
-- [ ] **Smartphone Friendly**
-  - [ ] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
+- [x] **Smartphone Friendly**
+  - [x] A design that is fully functional and aesthetically pleasing on smartphones is achieved using media queries.
 
 ### Stretch Features
 
-- [ ] **Additional Media**
-  - [ ] Embed a piece of media that is not an image or text and relates to the travel content such as a:
+- [x] **Additional Media**
+  - [x] Embed a piece of media that is not an image or text and relates to the travel content such as a:
     - Map
     - Video
     - Song
@@ -75,13 +76,13 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [ ] Create a form to allow users to sign up for a travel newsletter, enhancing user engagement.
   - [ ] *Note*: You do not have to collect and save the data submitted using the form. 
 
-- [ ] **Deployment**
-  - [ ] Deploy your website so it's accessible to the public outside of your local machine. 
-  - [ ] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
+- [x] **Deployment**
+  - [x] Deploy your website so it's accessible to the public outside of your local machine. 
+  - [x] **VIDEO WALKTHROUGH SPECIAL INSTRUCTIONS:** For ease of grading, please film yourself using your deployed URL with the URL visible in your video. 
 
-- [ ] **Custom Styling**: Add a personal touch to your site's design.
-  - [ ] Integrate at least one custom font using Google Fonts to add personality to your site.
-  - [ ] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
+- [x] **Custom Styling**: Add a personal touch to your site's design.
+  - [x] Integrate at least one custom font using Google Fonts to add personality to your site.
+  - [x] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
 
@@ -93,20 +94,40 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I would definitely say that the topics discussed helped me with formulating my website. This is because I was able to formally learn about HTML and CSS and practice it with the labs.
+Some of the content that definitely helped was things such as flex box, understanding elements and how they can be customized in CSS. Understanding precedence when it came to order of multiple classes for one element, ids, and tags was also very important for this project.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I think I would have allocated less times for the labs and try to spend more time on the project itself. Although I did find the stuff I did with the labs helpful, I noticed a lot more students jumping into the project quicker than me.
+
+If I had more time, I also would have liked the navbar to go from a horizontal version to a drop down when getting under a certain size.
+
+I still feel like the website could be more aesthetically pleasing to the eye.
+
+I would like to include links on how to visit places in the photo gallery as well.
+
+I would also like to embed a PDF or a link to download the PDF that I referenced for the accommodations.
+
+I think there could also be more work done with flexbox on some pages.
+
+
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+At first I was staying completely away from AI. However, I was informed after the first day that many people were using AI to help them which I definitely feel like set me back a bit if I knew we could freely use it.
+This would have helped me more to focus less on the content and writing it myself and just auto-filling it as a place holder so that I can focus more on design.
+
+I think the final product actually turned out very well and I thoroughly enjoy how it looks given the amount of time I was given. I think I was able to utilize almost all if not all of the features that we learned during the lessons.
+
 
 ### Open-source libraries used
 
 - Add any links to open-source libraries used in your project.
+https://www.w3schools.com/
 
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+I want to shout out Nathan Kenmognie for helping me out with some formatting, how to use Copilot, terminal commands, and how to deploy my project.
+
