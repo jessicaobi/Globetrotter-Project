@@ -1,12 +1,10 @@
-📝 `NOTE` Use this template to initialize the contents of a README.md file for your application. As you work on your assignment over the course of the week, update the required or stretch features lists to indicate which features you have completed by changing `[ ]` to `[x]`. (🚫 Remove this paragraph before submitting your assignment.)
-
 ## Unit Assignment: Globetrotter
 
 Submitted by: **Jessica Obi**
 
-Estimated time spent: **16** hours spent in total
+Estimated time spent: **13** hours spent in total
 
-Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Globetrotter Deployed Site](https://globetrotter-project-a6a3.onrender.com/index.html)
 
 ### Application Features
 
@@ -29,7 +27,7 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
 
 - [x] **Guide Page (Choose One)**
   - [x] A separate page that is either a Food Guide, Accommodations Guide, or Upcoming Local Events guide.
-  My accomodations page was targeted towards tourists coming into the country for the first time. Although it doesn't follow this outline exactly, it does still dollow the typical description of accomodating travelers. Devarsh Thacker, my advisor and one of my instructors, mentioned that it would still ssatisfy the guide requirements so I went ahead and checked off the below items. Thank you for your understanding!
+  My accommodations page was targeted towards tourists coming into the country for the first time. Although it doesn't follow this outline exactly, it does still follow the typical description of accommodating travelers. Devarsh Thacker, my advisor and one of my instructors, mentioned that it would still ssatisfy the guide requirements so I went ahead and checked off the below items. Thank you for your understanding!
   - [x] At least three entries thematic to your choice that provide a:
     - [x] Title
     - [x] Address
@@ -85,40 +83,26 @@ Deployed Application (optional): [Globetrotter Deployed Site](ADD_LINK_HERE)
   - [x] Experiment with at least one CSS property not covered in the lessons or labs to customize your page further.
 
 ### Walkthrough Video
+Link: https://www.loom.com/share/999935350b4140e4ab06c0770face442?sid=0ab19853-ee05-4792-bffe-a998ee0cc525
 
-`TODO://` Add the embedded URL code to your animated app walkthrough below, `ADD_EMBEDDED_CODE_HERE`. Make sure the video actually renders and is playable when viewing this README. (🚫 Remove this paragraph after adding walkthrough video)
-
-`ADD_EMBEDDED_CODE_HERE`
+Embedded Code:
+<div style="position: relative; padding-bottom: 62.42774566473989%; height: 0;"><iframe src="https://www.loom.com/embed/999935350b4140e4ab06c0770face442?sid=3f3befc3-1f6d-41db-b959-f8a09b750eeb" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-I would definitely say that the topics discussed helped me with formulating my website. This is because I was able to formally learn about HTML and CSS and practice it with the labs.
-Some of the content that definitely helped was things such as flex box, understanding elements and how they can be customized in CSS. Understanding precedence when it came to order of multiple classes for one element, ids, and tags was also very important for this project.
+I would definitely say that the topics discussed helped me with formulating my website. This is because I was able to formally learn about HTML and CSS and practice it with the labs. Some of the content that definitely helped was things such as flex box, understanding elements and how they can be customized in CSS. Understanding precedence when it came to order of multiple classes for one element, ids, and tags was also very important for this project.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-I think I would have allocated less times for the labs and try to spend more time on the project itself. Although I did find the stuff I did with the labs helpful, I noticed a lot more students jumping into the project quicker than me.
-
-If I had more time, I also would have liked the navbar to go from a horizontal version to a drop down when getting under a certain size.
-
-I still feel like the website could be more aesthetically pleasing to the eye.
-
-I would like to include links on how to visit places in the photo gallery as well.
-
-I would also like to embed a PDF or a link to download the PDF that I referenced for the accommodations.
-
-I think there could also be more work done with flexbox on some pages.
+I think I would have allocated less times for the labs and try to spend more time on the project itself. Although I did find the stuff I did with the labs helpful, I noticed a lot more students jumping into the project quicker than me. Additionally if I had more time, I also would have liked the navbar to go from a horizontal version to a drop down when getting under a certain size. I still feel like the website could be more aesthetically pleasing to the eye. I also would like to include links on how to visit places in the photo gallery as well. Furthermore, I would like to embed a PDF or a link to download the PDF that I referenced for the accommodations. Lastlly, I think there could also be more work done with flexbox on some pages.
 
 
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-At first I was staying completely away from AI. However, I was informed after the first day that many people were using AI to help them which I definitely feel like set me back a bit if I knew we could freely use it.
-This would have helped me more to focus less on the content and writing it myself and just auto-filling it as a place holder so that I can focus more on design.
-
-I think the final product actually turned out very well and I thoroughly enjoy how it looks given the amount of time I was given. I think I was able to utilize almost all if not all of the features that we learned during the lessons.
+At first I was staying completely away from AI. However, I was informed after the first day that many people were using AI to help them which I definitely feel like set me back a bit if I knew we could freely use it. This would have helped me more to focus less on the content and writing it myself and just auto-filling it as a place holder so that I can focus more on design. I think the final product actually turned out very well and I thoroughly enjoy how it looks given the amount of time I was given. I think I was able to utilize almost all if not all of the features that we learned during the lessons.
 
 
 ### Open-source libraries used
@@ -129,5 +113,5 @@ https://www.w3schools.com/
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
-I want to shout out Nathan Kenmognie for helping me out with some formatting, how to use Copilot, terminal commands, and how to deploy my project.
 
+I want to shout out Nathan Kenmognie for helping me out with some formatting, how to use Copilot, terminal commands, and how to deploy my project.
